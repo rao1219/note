@@ -1,8 +1,10 @@
 
-```java
-public class test{
-    public static void main(String[] args){
-        System.out.println("test");
-    }
+```c++
+#include<iostream>
+using namespace std;
+int main()
+{
+    cout<<"test g++"<<endl;
+    return 0;
 }
 ```
