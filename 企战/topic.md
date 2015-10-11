@@ -68,3 +68,5 @@
 + [surface pro3的测评](http://cn.engadget.com/2014/09/22/surface-pro-3-review/)
 
 + [平板电脑真能取代笔记本电脑吗？](http://www.zhihu.com/question/19637870)
+
++ [平板取代PC的障碍正在逐渐被攻克](http://zhuanlan.zhihu.com/lishuhang/19670680)
