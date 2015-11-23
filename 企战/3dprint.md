@@ -30,7 +30,7 @@
 + plastic toys
 + coffee makers
 + all sorts of plastic bottles packaging containers
-+ 
+
 ### 将来
 Whether or not they arrive en-mass in the home, 3D printers have many promising areas of potential future application. They may, for example, be used to output spare parts for all manner of products, and which could not possibly be stocked as part of the inventory of even the best physical store. Hence, rather than throwing away a broken item (something unlikely to be justified a decade or two hence due to resource depletion and enforced recycling), faulty goods will be able to be taken to a local facility that will call up the appropriate spare parts online and simply print them out. NASA has already tested a 3D printer on the International Space Station, and recently announced its requirement for a high resolution 3D printer to produce spacecraft parts during deep space missions. The US Army has also experimented with a truck-mounted 3D printer capable of outputting spare tank and other vehicle components in the battlefield.
 
