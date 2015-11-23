@@ -6,6 +6,13 @@
  主要介绍了3d打印的基本概念和原理
 
 [技术细节](http://www.explainingthefuture.com/3dprinting.html) 
++ Current Technologies
++ Commercial 3D Printers and Online Services
++ Personal 3D Printing
++ Current 3D Printing Applications
++ Direct Digital Manufacturing
++ Future 3D Printing Applications
++ A Solid Tomorrow
 
 [Top 3 Best 3D Printers You Must Have - YouTube](http://www.youtube.com/watch?v=vVbNugu_-1I) 展示了三个先进的3d打印机
 
