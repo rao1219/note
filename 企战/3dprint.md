@@ -10,3 +10,5 @@
 [Top 3 Best 3D Printers You Must Have - YouTube](http://www.youtube.com/watch?v=vVbNugu_-1I) 展示了三个先进的3d打印机
 
 [What Is 3D Printing and How Does It Work? | Mashable](http://www.youtube.com/watch?v=Vx0Z6LplaMU)
+
+[知乎](http://www.zhihu.com/question/19795862)
